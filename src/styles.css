@@ -2,6 +2,7 @@ h1 {
   text-align: center;
 }
 p {
+  display: block;
   text-align: center;
   margin: 30px;
 }
